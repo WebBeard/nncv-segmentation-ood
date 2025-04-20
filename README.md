@@ -1,5 +1,8 @@
 Original repository: https://github.com/TUE-VCA/NNCV
 
+**Codalab username**: ArthurM
+**TU/e email**: a.m.b.monnier@student.tue.nl
+
 # Required libraries
 - pytorch / torchvision
 - matplotlib
